@@ -33,3 +33,11 @@ Titanic Dataset (from Kaggle / online source)
 
 ## 🚀 Outcome
 Improved understanding of data cleaning, preprocessing, and data visualization techniques.
+
+## 🚀 Streamlit Dashboard
+
+This project also includes an interactive dashboard built using Streamlit.
+
+### ▶️ How to run the app locally
+
+1. Install required libraries:
