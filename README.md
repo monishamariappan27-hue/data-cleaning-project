@@ -41,3 +41,9 @@ This project also includes an interactive dashboard built using Streamlit.
 ### ▶️ How to run the app locally
 
 1. Install required libraries:
+
+## 🌐 Live Streamlit App
+
+Click here to view the live dashboard:
+
+https://data-cleaning-project-4z6e3ewwxin8apdwly74v7.streamlit.app/
